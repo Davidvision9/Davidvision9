@@ -26,7 +26,7 @@
 
 <hr/>
 
-<h2 style="border:none" align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<summary><h2 style="display: inline-block">⚒️ Languages-Frameworks-Tools ⚒️</h2></summary>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,css,discord,docker,express,figma,firebase,github,nestjs" /><br>
@@ -64,3 +64,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
+
+
+
+<style>
+    h2{
+      border:none
+    }
+</style>
