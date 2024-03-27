@@ -13,14 +13,8 @@
 </div>
 
 <div align="center">
-  <a href="mailto:keyanandydelgado@gmail.com">
+  <a href="mailto:davide.naranjom@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.facebook.com/keyandelgado.fajanoy">
-    <img alt="Facebook" title="Connect on Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/https.keyan/">
-    <img alt="Instagram" title "Follow on Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
 
@@ -69,10 +63,3 @@
 
 ----------------------------------------------------------------------
 
-
-
-<style>
-    h2{
-      border:none
-    }
-</style>
