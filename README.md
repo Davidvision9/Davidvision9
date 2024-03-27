@@ -1,16 +1,17 @@
-### Hi there 👋
+### ¡Hola! 👋 Soy David Naranjo,
 
 <div align="center">
   <h2>Aspiring Software Engineer</h2>
   <p>
-   🚀 I am currently a third-year college student majoring in <strong>Bachelor Of Science In Information Technology</strong>
+   🚀 Apasionado desarrollador de aplicaciones web con experiencia en el desarrollo utilizando el stack de <strong>Angular y NestJS.</strong>
   </p>
 </div>
 
 <div align="center">
-  <p>🌱 I’m currently learning <strong>MERN Stack</strong></p>
-  <p>💬 Ask me about <strong>Javascript, C, C++, PHP... or anything <a href="https://github.com/kad-f">here</a></strong></p>
+  <p>🌱 Disfruto creando soluciones escalables que mejoren la experiencia del usuario y resuelvan <strong>desafíos </strong>complejos.</p>
 </div>
+
+   
 
 <div align="center">
   <a href="mailto:davide.naranjom@gmail.com">
@@ -31,11 +32,6 @@
   <img src="https://skillicons.dev/icons?i=html,js,materialui,mongodb,nodejs,postman,redux,tailwind,ts,vscode,angular" />
 </div>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Facebook!;I'm+always+down+to+collab+:)">
-</h3>
-
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -47,7 +43,6 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/david-eduardo-naranjo-montanez-3b4185295/" target="blank" ><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  
 </p>
 
 
