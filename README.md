@@ -1,4 +1,11 @@
-### ¡Hola! 👋 Soy David Naranjo,
+
+<div align="center">
+  <div id="user-content-toc">
+    <ul align="center">
+      <summary><h2 style="display: inline-block">¡Hola! 👋 Soy David Naranjo,</h2></summary>
+    </ul>
+  </div>
+</div>
 
 <div align="center">
   <div id="user-content-toc">
