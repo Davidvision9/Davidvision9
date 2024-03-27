@@ -1,7 +1,7 @@
 ### ¡Hola! 👋 Soy David Naranjo,
 
 <div align="center">
-  <h2>Aspiring Software Engineer</h2>
+  <h2>Front End Developer</h2>
   <p>
    🚀 Apasionado desarrollador de aplicaciones web con experiencia en el desarrollo utilizando el stack de <strong>Angular y NestJS.</strong>
   </p>
