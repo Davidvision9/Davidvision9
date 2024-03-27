@@ -30,7 +30,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,css,discord,docker,express,figma,firebase,github,nestjs" /><br>
-  <img src="https://skillicons.dev/icons?i=html,js,materialui,mongodb,nodejs,postman,redux,tailwind,ts,vscode,angular,primeng" />
+  <img src="https://skillicons.dev/icons?i=html,js,materialui,mongodb,nodejs,postman,redux,tailwind,ts,vscode,angular" />
 </div>
 
 <hr/>
@@ -49,19 +49,6 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Facebook!;I'm+always+down+to+collab+:)">
 </h3>
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,&perline=14" />
-  </a>
-</p>
 
 
 <!-- Connect with me -->
