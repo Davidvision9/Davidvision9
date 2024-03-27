@@ -6,7 +6,6 @@
       <summary><h2 style="display: inline-block">Front End Developer</h2></summary>
     </ul>
   </div>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <p>
    🚀 Apasionado desarrollador de aplicaciones web con experiencia en el desarrollo utilizando el stack de <strong>Angular y NestJS.</strong>
   </p>
