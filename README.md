@@ -26,7 +26,7 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 style="border:none" align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,css,discord,docker,express,figma,firebase,github,nestjs" /><br>
