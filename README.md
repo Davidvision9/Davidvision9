@@ -1,7 +1,11 @@
 ### ¡Hola! 👋 Soy David Naranjo,
 
 <div align="center">
-  <h2>Front End Developer</h2>
+  <div id="user-content-toc">
+    <ul align="center">
+      <summary><h2 style="display: inline-block">Front End Developer</h2></summary>
+    </ul>
+  </div>
   <p>
    🚀 Apasionado desarrollador de aplicaciones web con experiencia en el desarrollo utilizando el stack de <strong>Angular y NestJS.</strong>
   </p>
