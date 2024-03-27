@@ -26,7 +26,11 @@
 
 <hr/>
 
-<summary><h2 style="display: inline-block">⚒️ Languages-Frameworks-Tools ⚒️</h2></summary>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">⚒️ Languages-Frameworks-Tools ⚒️</h2></summary>
+  </ul>
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,css,discord,docker,express,figma,firebase,github,nestjs" /><br>
