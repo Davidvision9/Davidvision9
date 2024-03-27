@@ -23,7 +23,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">⚒️ Languages-Frameworks-Tools ⚒️</h2></summary>
+    <summary><h2 style="display: inline-block">⚒️ Languages Frameworks Herramientas ⚒️</h2></summary>
   </ul>
 </div>
 
@@ -36,7 +36,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Contacto 🤝</h2></summary>
   </ul>
 </div>
 
