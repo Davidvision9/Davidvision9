@@ -29,7 +29,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,css,discord,docker,express,figma,firebase,github" /><br>
+  <img src="https://skillicons.dev/icons?i=git,css,discord,docker,express,figma,firebase,github,nestjs" /><br>
   <img src="https://skillicons.dev/icons?i=html,js,materialui,mongodb,nodejs,postman,redux,tailwind,ts,vscode,angular" />
 </div>
 
